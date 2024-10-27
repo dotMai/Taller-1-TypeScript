@@ -51,3 +51,4 @@ document.addEventListener("DOMContentLoaded", () => {
         tableContainer.innerHTML = generateSeriesTable(series);
     }
 });
+//finalizado Taller 1
